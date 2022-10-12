@@ -10,7 +10,7 @@
     "axios": "^0.18.0",
     "native-base": "^2.8.1",
     "react": "16.6.0-alpha.8af6728",
-    "react-native": "0.57.3",
+    "react-native": "0.70.2",
     "react-native-datepicker": "^1.7.2",
     "react-native-i18n": "^2.0.15",
     "react-native-image-crop-picker": "^0.21.3",
